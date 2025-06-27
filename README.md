@@ -1,13 +1,13 @@
 # DATN
 Source code for Forecasting Model and RL implementation
 
-\textbf{For information about Forecasting Model + Data Analysis}
+##For information about Forecasting Model + Data Analysis
 
 Check "Forecast" Folder for 3 forecasting model of each datasets, along with the preprocessing techniques
 
 Documents for forecasting analysis can be seen in "Forecast_Doc" folder
 
-#For information about RL implementation
+##For information about RL implementation
 Check "RL" Folder for detail codes used in the project
 
 Documents for RL analysis can be seen in "Forecast_Doc" folder
